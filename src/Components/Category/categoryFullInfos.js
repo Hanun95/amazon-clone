@@ -5,7 +5,7 @@ export const categoryInfos = [
     imgLink: "https://m.media-amazon.com/images/I/91emPIm0CEL._AC_SY355_.jpg",
   },
   {
-    title: "Discover fasion trends",
+    title: "Discover fashion trends",
     name: "women's clothing",
     imgLink: "https://m.media-amazon.com/images/I/81pG+bFNArL._AC_SX342_.jpg",
   },
